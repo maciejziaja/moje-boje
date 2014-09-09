@@ -6,6 +6,10 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maciejziaja/moje-boje.git"
+    },
     "keywords": [
         "test",
         "mojeboje",
@@ -16,6 +20,10 @@
         "email": "maciej.ziaja@esky.pl"
     },
     "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/maciejziaja/moje-boje/issues"
+    },
+    "homepage": "https://github.com/maciejziaja/moje-boje",
     "engines": {
         "node": ">= 0.10.0"
     },
