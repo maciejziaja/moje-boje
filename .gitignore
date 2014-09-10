@@ -28,3 +28,4 @@ com_crashlytics_export_strings.xml
 
 assets/tmp
 web
+node_modules
